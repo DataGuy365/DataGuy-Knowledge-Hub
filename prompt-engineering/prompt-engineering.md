@@ -18,29 +18,32 @@ It sets the foundation for all contextual and agentic AI systems.
 ## 📚 Articles & Resources
 
 ### 🔹 Core Guides & Frameworks
-- [Prompt Engineering: Guiding AI for Precision](https://dataguy.in/prompt-engineering-mastery/)  
-  *Focuses on techniques to craft prompts that improve model accuracy and consistency.* :contentReference[oaicite:3]{index=3}
 
-- [Prompt Engineering: 90 Frameworks to Revolutionize AI Conversations](https://dataguy.in/artificial-intelligence/prompt-engineering-frameworks/)  
-  *Explore 90 structured frameworks optimized for varied LLM tasks.* :contentReference[oaicite:4]{index=4}
+- **[Prompt Engineering: Guiding AI for Precision](https://dataguy.in/prompt-engineering-mastery/)**  
+  *Focuses on techniques to craft prompts that improve model accuracy and consistency.*
 
-- [Prompt Engineering: Secret Weapon for LLM Mastery](https://dataguy.in/artificial-intelligence/prompt-engineering-guide/)  
-  *A foundational explainer on building effective AI prompts at scale.* :contentReference[oaicite:5]{index=5}
+- **[Prompt Engineering: 90 Frameworks to Revolutionize AI Conversations](https://dataguy.in/artificial-intelligence/prompt-engineering-frameworks/)**  
+  *Explore 90 structured frameworks optimized for varied LLM tasks.*
+
+- **[Prompt Engineering: Secret Weapon for LLM Mastery](https://dataguy.in/artificial-intelligence/prompt-engineering-guide/)**  
+  *A foundational explainer on building effective AI prompts at scale.*
 
 ---
 
 ### 🔹 Business & Strategic Applications
-- [Prompt Engineering for Business Strategy](https://dataguy.in/artificial-intelligence/prompt-engineering-for-business-leaders/)  
-  *Apply prompt engineering across marketing, finances, and enterprise units.* :contentReference[oaicite:6]{index=6}
 
-- [Prompt Engineering for Business Units](https://dataguy.in/artificial-intelligence/prompt-engineering-for-business-units/)  
-  *Specific cases and strategies tailored to teams like sales and operations.* :contentReference[oaicite:7]{index=7}
+- **[Prompt Engineering for Business Strategy](https://dataguy.in/artificial-intelligence/prompt-engineering-for-business-leaders/)**  
+  *Apply prompt engineering across marketing, finances, and enterprise units.*
+
+- **[Prompt Engineering for Business Units](https://dataguy.in/artificial-intelligence/prompt-engineering-for-business-units/)**  
+  *Specific cases and strategies tailored to teams like sales and operations.*
 
 ---
 
 ### 🔹 Related Tag & Hub Pages
-- [Explore all Prompt Engineering articles](https://dataguy.in/tag/prompt-engineering/)  
-  *Hub page with curated content on prompts across the DataGuy.blog.* :contentReference[oaicite:8]{index=8}
+
+- **[Explore all Prompt Engineering articles](https://dataguy.in/tag/prompt-engineering/)**  
+  *Hub page with curated content on prompts across the DataGuy blog.*
 
 ---
 
