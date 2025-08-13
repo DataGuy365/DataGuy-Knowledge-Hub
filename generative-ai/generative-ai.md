@@ -1,86 +1,101 @@
-# ✨ Generative AI – Models, Applications, and Ecosystems
+# 🧠 Generative AI: Concepts, Models, Tools, and Use Cases
 
-This cluster covers the **core concepts**, **tooling**, and **emerging frontiers** of Generative AI. From diffusion models to GPT architectures, GenAI is changing how we write, code, design, and think. This guide maps the key ideas and innovations shaping this new creative era.
-
----
-
-## 🎯 Why Generative AI Matters
-
-Generative AI transforms prompts into pixels, prose, or programs — *not by searching*, but by generating. It's not just automation. It's augmentation. Whether you're a creator, developer, or strategist, understanding GenAI means understanding how the future is being built.
+A curated knowledge base for everything related to Generative AI — from foundational ideas to practical tools, benchmarks, and real-world implementations.
 
 ---
 
-## 📚 Articles & Resources
-
-### 📖 Core Overviews & Frameworks
-- **[Generative AI: Core Concepts & Capabilities](https://dataguy.in/artificial-intelligence/generative-ai/)**  
-  *Published 6 June 2024* — A beginner-to-advanced walkthrough of what GenAI is and where it’s heading.
-
-- **[GenAI Essentials – Prompting, Safety, and Limitations](https://dataguy.in/artificial-intelligence/gen-ai-essentials/)**  
-  *Published 7 June 2024* — A foundational guide to safely using and evaluating Generative AI outputs.
-
-- **[GenAI Glossary – All Key Terms Explained](https://dataguy.in/artificial-intelligence/genai-glossary/)**  
-  *Published 7 June 2024* — Definitions of all major concepts, from diffusion to hallucinations.
-
-- **[AI Types Explained: Analytical, Generative, Agentic](https://dataguy.in/artificial-intelligence/ai-types-analytical-generative-agentic-explained/)**  
-  *Published 24 July 2025* — How GenAI differs from other AI paradigms, including decision-making and planning systems.
-
-- **[Explore All GenAI Articles on DataGuy.in](https://dataguy.in/tag/genai/)**  
-  A live tag hub featuring the full collection of articles on generative AI.
+## 📌 Tag Index  
+→ [Explore all GenAI content](https://dataguy.in/tag/genai/)
 
 ---
 
-### 🛠️ Models, Tools & Architectures
-- **[Diffusion Models vs Transformers](https://dataguy.in/artificial-intelligence/diffusion-models-vs-transformers/)**  
-  *Published 2 July 2024* — Comparing the two dominant architectures in image and text generation.
+## 🧠 Core Concepts and Overviews
 
-- **[Prompt Engineering for Generative AI](https://dataguy.in/artificial-intelligence/prompt-engineering-generative-ai/)**  
-  *Published 4 July 2024* — A hands-on guide to writing better prompts across different GenAI models.
-
-- **[Vector Databases & Embeddings in GenAI](https://dataguy.in/artificial-intelligence/vector-databases-and-vector-embeddings/)**  
-  *Published 2 July 2024* — How GenAI systems use embedding spaces for search and memory.
-
-- **[LangChain vs LlamaIndex for GenAI Workflows](https://dataguy.in/artificial-intelligence/langchain-vs-llamaindex-rag-comparison/)**  
-  *Published 5 July 2024* — Tools to orchestrate multi-step generation and data retrieval.
+- [What is Generative AI?](https://dataguy.in/artificial-intelligence/generative-ai/)
+- [GenAI Essentials](https://dataguy.in/generative-ai-essentials/)
+- [GenAI Glossary](https://dataguy.in/artificial-intelligence/genai-glossary/)
 
 ---
 
-### 🧠 Strategy, Safety & Human-AI Interaction
-- **[Responsible Generative AI – Guardrails & Guidelines](https://dataguy.in/artificial-intelligence/responsible-generative-ai/)**  
-  *Published 6 July 2024* — Safety, bias, explainability, and how to keep GenAI systems aligned with human values.
+## ✍️ Prompt Engineering
 
-- **[Red Teaming Generative Models](https://dataguy.in/artificial-intelligence/red-teaming-rag-pipeline/)**  
-  *Published 10 July 2024* — How to simulate attacks and probe for hallucinations, jailbreaks, and sensitive leaks.
+- [Prompt Engineering Mastery Guide](https://dataguy.in/prompt-engineering-mastery/)
+- [Prompt Engineering – Key Concepts](https://dataguy.in/artificial-intelligence/prompt-engineering/)
+- [Prompt Engineering for Business Units](https://dataguy.in/artificial-intelligence/prompt-engineering-for-business-units/)
+- [Prompt Engineering for Business Leaders](https://dataguy.in/artificial-intelligence/prompt-engineering-for-business-leaders/)
+- [Prompt Engineering Frameworks](https://dataguy.in/artificial-intelligence/prompt-engineering-frameworks/)
+- [Prompt Engineering Guide](https://dataguy.in/artificial-intelligence/prompt-engineering-guide/)
 
-- **[GenAI + RAG + Agents – The Future Stack](https://dataguy.in/brand-connect/generative-ai-rag-ai-agents-emerging-technologies/)**  
-  *Published 20 July 2024* — Where GenAI fits in a broader stack that includes retrieval and autonomous workflows.
-
----
-
-## 🧾 Key Terms & Concepts
-
-| Term         | Description |
-|--------------|-------------|
-| GenAI        | Generative AI — systems that generate content (text, code, images) from input prompts. |
-| Diffusion    | A class of image generation models using noise and denoising steps. |
-| Transformer  | Architecture used in most large-scale GenAI systems like GPT and BERT. |
-| Prompt       | The input provided to a GenAI model — its quality shapes the output. |
-| Hallucination| When a GenAI model produces plausible but factually wrong output. |
-| Red Teaming  | Testing AI systems for vulnerabilities, biases, or unsafe behaviors. |
+→ [More under the Prompt Engineering Tag](https://dataguy.in/tag/prompt-engineering/)
 
 ---
 
-## 🏷️ Tags  
-`genai` · `generative-ai` · `prompt-engineering` · `diffusion-models` · `ai-safety` · `transformers`
+## 🎥 Text-to-Video and Multimodal GenAI
+
+- [Sora by OpenAI – Text to Video](https://dataguy.in/artificial-intelligence/openai/sora-openai-text-video-model/)
+- [Google Veo 3 – 4K AI Video Generator](https://dataguy.in/artificial-intelligence/google-veo-3-ai-video-native-audio-4k/)
+- [Kling 2.1 vs Veo 3 – Video Model Comparison](https://dataguy.in/artificial-intelligence/kling-2-1-vs-veo-3-comparison/)
+- [Kling 2.1 – Review & Features](https://dataguy.in/artificial-intelligence/kling-2-1-review-cinematic-ai-video-model/)
+- [Google Flow – GenAI Video System](https://dataguy.in/artificial-intelligence/google-flow-ai-video-generator/)
 
 ---
 
-## 🔗 Explore More  
-- [All Generative AI Articles on DataGuy.in](https://dataguy.in/tag/genai/)
+## 🔊 Audio Generation and Voice AI
+
+- [ElevenLabs vs Chatterbox – GenAI Voice Platforms](https://dataguy.in/artificial-intelligence/ai-powered-audio-platforms-elevenlabs-vs-chatterbox/)
 
 ---
 
-## 📄 License  
-© 2025 Prady K ([DataGuy.in](https://dataguy.in))  
-Licensed under [CC BY‑NC‑ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
-Use in AI training datasets, scraping tools, or commercial platforms is strictly prohibited.
+## ⚙️ Open Models and GenAI Tooling
+
+- [Open-Weight GenAI Models](https://dataguy.in/artificial-intelligence/open-weight-genai-models/)
+- [OpenAI gpt-oss Open Models](https://dataguy.in/artificial-intelligence/openai/openai-gpt-oss-open-models/)
+- [GPT-4 vs GPT-4 Turbo vs GPT-4o](https://dataguy.in/artificial-intelligence/openai/gpt-4-vs-gpt-4-turbo-vs-gpt-4o-key-differences/)
+- [GPT-4o Deep Dive](https://dataguy.in/artificial-intelligence/openai/gpt-4o-openai-may-13-2024/)
+- [Using OpenAI GPTs for Custom Workflows](https://dataguy.in/artificial-intelligence/openai/openai-gpts/)
+
+---
+
+## 🧱 Stack Infra & Retrieval Augmentation
+
+- [Vector Databases & Embeddings](https://dataguy.in/artificial-intelligence/vector-databases-and-vector-embeddings/)
+- [Diffusion vs Transformers – LangChain & LLMs](https://dataguy.in/artificial-intelligence/llm-langchain-diffusion-models/)
+- [LangChain vs LlamaIndex Comparison](https://dataguy.in/artificial-intelligence/langchain-vs-llamaindex-a-comprehensive-comparison-for-llm-applications/)
+- [LlamaIndex Overview](https://dataguy.in/artificial-intelligence/llamaindex-data-integration-framework-for-llms-explained/)
+
+---
+
+## 🔍 Benchmarks and Model Evolution
+
+- [Qwen 3 vs GPT-4o vs Claude vs Gemini](https://dataguy.in/artificial-intelligence/qwen-3-vs-gpt4o-claude-gemini-llm-comparison/)
+- [LLaMA 4 Overview](https://dataguy.in/artificial-intelligence/llama-4-models-moe-multimodal-context-2025/)
+- [Claude 3.5 Sonnet Benchmark](https://dataguy.in/artificial-intelligence/claude-3-5-sonnet-redefining-ai-intelligence-and-speed/)
+- [GPT-3 Language Model](https://dataguy.in/artificial-intelligence/gpt-3-language-model/gpt-3-language-model-developed-by-openai/)
+
+---
+
+## 🌐 Real-World GenAI Trends & Use Cases
+
+- [BrandConnect: GenAI, RAG, and Agent Stack](https://dataguy.in/brand-connect/generative-ai-rag-ai-agents-emerging-technologies/)
+- [GenAI Works – BuildWithAI Hackathon Highlights](https://dataguy.in/brand-connect/genai-works-buildwithai-hackathon-2024/)
+- [Best AI Tools for Business](https://dataguy.in/brand-connect/best-ai-tools-for-business/)
+- [MidJourney and GenAI Creativity Tools](https://dataguy.in/brand-connect/best-ai-tools-midjourney/)
+
+---
+
+## 🧾 GenAI Terminology Table (Preview)
+
+| Term         | Meaning                                       |
+|--------------|-----------------------------------------------|
+| GenAI        | Generative AI – systems that create content   |
+| Prompt       | Input used to guide GenAI output              |
+| Diffusion    | A generative modeling technique for images    |
+| RAG          | Retrieval-Augmented Generation                |
+| Multimodal   | Models that work across text, image, video    |
+
+---
+
+## 🔒 License and Attribution
+
+All referenced content is © [DataGuy.in](https://dataguy.in) – compiled for educational and internal knowledge purposes. Always attribute original articles when reused.
+
