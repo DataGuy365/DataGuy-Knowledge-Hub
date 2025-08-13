@@ -19,7 +19,6 @@ Welcome to the **DataGuy GitHub Repository**, a curated, structured archive of a
 - 📰 AI Research Roundups
 - 🗺️ Career Roadmaps
 - 🏗️ Data Stack Fundamentals
-- 💼 Business Strategy
 
 ---
 
