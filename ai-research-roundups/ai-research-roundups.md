@@ -46,13 +46,18 @@ Curated updates from DataGuy.in featuring research breakthroughs, LLM architectu
 
 ---
 
-## 📎 Related Tags
+## 🏷️ Tag Index
 
-* [Context Engineering](https://dataguy.in/tag/context-engineering/)
-* [AI Newsletter](https://dataguy.in/tag/ai-newsletter/)
-* [Open Models](https://dataguy.in/tag/open-models/)
-* [LLM Compression](https://dataguy.in/tag/llm-compression/)
-* [Research Agents](https://dataguy.in/tag/research-agents/)
+Explore curated articles from **[DataGuy.in](https://dataguy.in)** by theme:
+
+| Tag | Description |
+|-----|-------------|
+| [Language Models](https://dataguy.in/tag/language-model/) | Articles exploring LLM capabilities, architecture, and comparative performance. |
+| [Career Paths](https://dataguy.in/tag/career-paths/) | Guides and insights for roles like Data Analyst, AI Engineer, ML Ops, and more. |
+| [Advanced Analytics](https://dataguy.in/tag/advanced-analytics/) | Applied techniques in predictive modeling, time-series, forecasting, and more. |
+| [Generative AI](https://dataguy.in/tag/genai/) | Deep dives into text-to-video, audio synthesis, world models, and GenAI trends. |
+| [Prompt Engineering](https://dataguy.in/tag/prompt-engineering/) | Strategies and techniques for crafting high-performance prompts across tasks. |
+| [Data Architectures](https://dataguy.in/tag/data-architectures/) |
 
 ---
 
