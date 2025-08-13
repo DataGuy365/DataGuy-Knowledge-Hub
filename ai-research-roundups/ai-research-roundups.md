@@ -57,7 +57,17 @@ Explore curated articles from **[DataGuy.in](https://dataguy.in)** by theme:
 | [Advanced Analytics](https://dataguy.in/tag/advanced-analytics/) | Applied techniques in predictive modeling, time-series, forecasting, and more. |
 | [Generative AI](https://dataguy.in/tag/genai/) | Deep dives into text-to-video, audio synthesis, world models, and GenAI trends. |
 | [Prompt Engineering](https://dataguy.in/tag/prompt-engineering/) | Strategies and techniques for crafting high-performance prompts across tasks. |
-| [Data Architectures](https://dataguy.in/tag/data-architectures/) |
+| [Data Architectures](https://dataguy.in/tag/data-architectures/) | Exploration of pipelines, lakehouse architectures, and modern data stacks. |
+| [AI Newsletter](https://dataguy.in/tag/ai-newsletter/) | Weekly research roundups and model announcements from top labs and companies. |
+| [Brand Hub](https://dataguy.in/tag/brand-hub/) | Assets, voice, and design system behind DataGuy, DataComics, and DataBridze. |
+| [RAG](https://dataguy.in/tag/rag/) | Retrieval-Augmented Generation frameworks, use cases, and best practices. |
+| [AI Agents](https://dataguy.in/tag/ai-agents/) | Explorations of autonomous, tool-using, multi-step, and memory-enabled agents. |
+| [Research](https://dataguy.in/tag/research/) | Links to in-depth analysis, paper summaries, and AI breakthroughs. |
+| [AI Tools](https://dataguy.in/tag/ai-tools/) | Tools and platforms that empower builders, analysts, and researchers. |
+| [Conversational AI](https://dataguy.in/tag/conversational-ai/) | Chatbots, dialogue agents, and LLMs designed for interactive conversations. |
+| [Agentic AI](https://dataguy.in/tag/agentic-ai/) | Philosophy and design of systems with autonomy, memory, and contextual flow. |
+| [Context Engineering](https://dataguy.in/tag/context-engineering/) | System-level prompt design, context window strategies, compression, and routing. |
+
 
 ---
 
