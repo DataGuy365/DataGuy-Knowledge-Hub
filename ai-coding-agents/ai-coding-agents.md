@@ -54,8 +54,6 @@ Explore how AI agents are reshaping the coding workflow — from autonomous deve
 ---
 
 > 🔍 Explore more: [GenAI Tag](https://dataguy.in/tag/genai/)
->
-> Here’s a rephrased version of your license section:
 
 ---
 
