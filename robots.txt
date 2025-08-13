@@ -2,3 +2,42 @@
 User-agent: *
 Disallow: /
 -->
+
+User-agent: *
+Disallow:
+
+#Disallow Wayback machine 
+User-Agent: ia_archiver
+Disallow: /
+
+# Blocking AI Bot Crawlers, Starts Here!
+
+#Disallow ChatGPT from extracting or interpreting our content
+User-agent: GPTBot
+User-agent: ChatGPT-User
+
+#Disallow Other Familiar Bots
+
+User-agent: OAI-SearchBot
+User-agent: PerplexityBot
+User-agent: Amazonbot
+User-agent: Bytespider
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: Meta-ExternalAgent
+User-agent: FacebookBot
+User-agent: CCBot
+User-agent: Anthropic-ai
+User-agent: YouBot
+Disallow: /
+
+# Blocking AI Bot Crawlers, Ends Here!
+
+#Sitemaps
+
+Sitemap: https://dataguy.in/sitemap_index.xml
+Sitemap: https://dataguy.in/post-sitemap.xml
+Sitemap: https://dataguy.in/page-sitemap.xml
+Sitemap: https://dataguy.in/web-story-sitemap.xml
+Sitemap: https://dataguy.in/category-sitemap.xml
+Sitemap: https://dataguy.in/post_tag-sitemap.xml
