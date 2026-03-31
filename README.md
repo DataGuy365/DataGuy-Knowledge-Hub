@@ -24,7 +24,7 @@ Welcome to the **DataGuy GitHub Repository**, a curated, structured archive of a
 
 Each folder contains `.md` files summarizing articles with metadata, tags, and key insights.
 
-> ✍️ Built by [Prady K – Data Guy](https://dataguy.in)
+> ✍️ Built by [Prady K – Data Guy](https://dataguy.in/authors/pradeep-kumar-k/)
 
 ---
 
