@@ -1,171 +1,75 @@
 # robots.txt - Allow only top LLMs and search engines
-# Default: Block all crawlers
+# Strategy: Block all by default, then explicitly allow.
+
 User-agent: *
 Disallow: /
 
 # === TOP SEARCH ENGINES (ALLOWED) ===
-# Google Search
 User-agent: Googlebot
-Allow: /
-
 User-agent: Googlebot-News
-Allow: /
-
 User-agent: Googlebot-Image
-Allow: /
-
 User-agent: Googlebot-Video
-Allow: /
-
-# Bing/Microsoft Search
 User-agent: Bingbot
-Allow: /
-
 User-agent: msnbot
-Allow: /
-
-# Yahoo
 User-agent: Slurp
-Allow: /
-
-# DuckDuckGo
 User-agent: DuckDuckBot
-Allow: /
-
-# Yandex
 User-agent: YandexBot
-Allow: /
-
-# Baidu
 User-agent: Baiduspider
-Allow: /
-
-# Apple Search (Siri/Spotlight)
 User-agent: Applebot
 Allow: /
 
 # === TOP LLMs/AI CRAWLERS (ALLOWED) ===
-# OpenAI (ChatGPT)
+# OpenAI
 User-agent: GPTBot
-Allow: /
-
 User-agent: ChatGPT-User
-Allow: /
-
-User-agent: ChatGPT-User/2.0
-Allow: /
-
 User-agent: OAI-SearchBot
 Allow: /
 
-# Google AI (Gemini/Bard)
+# Google AI
 User-agent: Google-Extended
-Allow: /
-
 User-agent: GoogleOther
 Allow: /
 
-# Anthropic (Claude)
+# Anthropic
 User-agent: ClaudeBot
-Allow: /
-
 User-agent: Claude-Web
-Allow: /
-
-User-agent: Anthropic-ai
+User-agent: anthropic-ai
 Allow: /
 
 # Perplexity
 User-agent: PerplexityBot
-Allow: /
-
-User-agent: PerplexityBot-1
-Allow: /
-
 User-agent: Perplexity-User
 Allow: /
 
-# === OTHER MAJOR AI CRAWLERS (ALLOWED) ===
-# Meta AI (Facebook/Instagram AI)
+# Meta & Microsoft AI
 User-agent: FacebookBot
-Allow: /
-
 User-agent: Meta-ExternalAgent
-Allow: /
-
-# Microsoft AI (Copilot)
 User-agent: Bingbot-Extended
 Allow: /
 
-# Common Crawl (used by many AI companies)
+# Common Crawl (The foundation for many LLMs)
 User-agent: CCBot
 Allow: /
 
-# Cohere
-User-agent: cohere-ai
-Allow: /
+# === EXPLICITLY BLOCKED (REDUNDANT BUT SAFE) ===
+# These are technically blocked by User-agent: * # but listed to ensure no "accidental" access.
+#User-agent: ia_archiver
 
-# === EXPLICITLY BLOCKED CRAWLERS ===
-# Note: These are blocked by the default "User-agent: *" rule above
-# but listed here for clarity
-
-# Wayback Machine (as per your previous preference)
-User-agent: ia_archiver
-Disallow: /
-
-# Amazon (Alexa, etc.)
 User-agent: Amazonbot
-Disallow: /
-
-# ByteDance (TikTok)
 User-agent: Bytespider
-Disallow: /
-
-# Research/Academic crawlers
-User-agent: AI2Bot
-Disallow: /
-
-User-agent: Diffbot
-Disallow: /
-
-# Other AI search engines
-User-agent: YouBot
-Disallow: /
-
-User-agent: DuckAssistBot
-Disallow: /
-
-User-agent: MistralAI-User
-Disallow: /
-
-User-agent: TimpiBot
-Disallow: /
-
-# Apple AI Training (separate from search)
 User-agent: Applebot-Extended
-Disallow: /
-
-# Forum/discussion crawlers
+User-agent: AI2Bot
+User-agent: Diffbot
+User-agent: YouBot
+User-agent: MistralAI-User
 User-agent: omgili
 Disallow: /
 
 # === SITEMAPS ===
-# These help allowed search engines discover and index your content
 Sitemap: https://dataguy.in/sitemap_index.xml
-Sitemap: https://dataguy.in/post-sitemap.xml
-Sitemap: https://dataguy.in/page-sitemap.xml
-Sitemap: https://dataguy.in/web-story-sitemap.xml
-Sitemap: https://dataguy.in/category-sitemap.xml
-Sitemap: https://dataguy.in/post_tag-sitemap.xml
 
 # === NOTES ===
-# This robots.txt ONLY allows:
-# - Major search engines (Google, Bing, Yahoo, DuckDuckGo, Yandex, Baidu, Apple)
-# - Top LLMs (ChatGPT/OpenAI, Gemini/Google AI, Claude/Anthropic, Perplexity)
-# - Select major AI crawlers (Meta AI, Microsoft AI, Common Crawl, Cohere)
-# 
-# ALL OTHER CRAWLERS ARE BLOCKED including:
-# - Amazon crawlers, ByteDance, research crawlers, lesser AI search engines
-# - Any new/unknown crawlers (blocked by default "User-agent: *" rule)
-# 
-# The approach is: Block everything by default, then explicitly allow only the top players
+# This config prioritizes high-authority traffic.
+# It protects against "headless" scrapers and 
+# smaller AI startups that don't respect standard 
+# attribution or the "Google-Extended" tag.
