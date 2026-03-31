@@ -79,6 +79,9 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
+User-agent: PerplexityBot-1
+Allow: /
+
 User-agent: Perplexity-User
 Allow: /
 
